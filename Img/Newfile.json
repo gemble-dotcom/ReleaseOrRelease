@@ -1,25 +1,17 @@
 {
-    "Assassin-NareJlFzwX7rwSzzDpu": {
-      "hero": "Aoi",
-      "img": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/d/da/53600.jpg/revision/latest/scale-to-width-down/75?cb=20230622114156",
-      "key": "Assassin-NareJlFzwX7rwSzzDpu",
-      "type": "Assassin"
+    "1": {
+      "img": "y"
     },
-    "Assassin-NareiwsDfk1mHLIGgGS": {
-      "hero": "Batman",
-      "img": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/d/d1/Batman.png/revision/latest/scale-to-width-down/75?cb=20171107065639",
-      "key": "Assassin-NareiwsDfk1mHLIGgGS",
-      "type": "Assassin"
+    "2": {
+       "img": "Butterfly"
     },
-    "Assassin-Narel_PO1q8eviKTynh": {
-      "hero": "Bright",
-      "img": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/8/85/Bright.jpg/revision/latest/scale-to-width-down/75?cb=20210723192017",
-      "key": "Assassin-Narel_PO1q8eviKTynh",
-      "type": "Assassin"
+    "3": {
+       "img": "Butterfly"
     },
-    "Assassin-NarenhqxULiwCsXdvzB": {
-      "hero": "Butterfly",
-      "img": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/7/77/Butterfly.jpg/revision/latest/scale-to-width-down/75?cb=20200603192427",
-      "key": "Assassin-NarenhqxULiwCsXdvzB",
-      "type": "Assassin"
+    "4": {
+     "img": "Butterfly"
+    },
+     "5": {
+      "img": "Butterfly"
     }
+}
